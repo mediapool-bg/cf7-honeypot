@@ -1,0 +1,21 @@
+{
+  "name": "mediapool-bg/cf7-honeypot",
+  "type": "wordpress-plugin",
+  "description": "Add honeypot anti-spam functionality to the popular Contact Form 7 plugin.",
+  "homepage": "https://github.com/mediapool-bg/cf7-honeypot",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "support": {
+    "issues": "https://github.com/mediapool-bg/cf7-honeypot/issues"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "honeypot",
+    "antispam",
+    "contact form 7",
+    "cf7"
+  ]
+}
